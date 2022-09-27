@@ -215,7 +215,7 @@ This competition has come to an end and resulted in the following podium:
   7. [cranky - R176 (taka1235) \[Pangko\]](https://osu.ppy.sh/beatmapsets/31367#taiko/121335)
   8. [KOTOKO - Oboetete Ii yo (cRyo\[iceeicee\]) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/53791#taiko/177822)
 - Hidden
-  1. AU - Rotterdam Cirno (OnosakiHito) \[Taiko Oni\]
+  1. [AU - Rotterdam Cirno (OnosakiHito) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/82259#taiko/227777)
   2. [Saiya - Remote Control (Garven) \[inaba's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/53857#taiko/173361)
 - HardRock
   1. [Nanamori-chu \* Goraku-bu - My Pace de Ikimashou (bakabaka) \[Car's Taiko\]](https://osu.ppy.sh/beatmapsets/36569#taiko/118718)
@@ -253,7 +253,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   1. [Silver Forest - Prayer (Elly-chan) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/32214#taiko/188456)
-  2. AU - Rotterdam Cirno (OnosakiHito) \[Taiko Oni\]
+  2. [AU - Rotterdam Cirno (OnosakiHito) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/82259#taiko/227777)
   3. [Envy - Heaven (Charles445) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/42038#taiko/135499)
   4. [Nudarai - Nuclear Fusion (Sandpig) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25557#taiko/87205)
   5. [cranky - R176 (taka1235) \[Pangko\]](https://osu.ppy.sh/beatmapsets/31367#taiko/121335)
@@ -265,10 +265,10 @@ This competition has come to an end and resulted in the following podium:
   2. [Hatsune Miku - Romeo and Cinderella (Nekoo\[\]) \[31's Taiko\]](https://osu.ppy.sh/beatmapsets/21954#taiko/76530)
 - HardRock
   1. [EastNewSound - Lucid Dream (eveless) \[Poke's Taiko\]](https://osu.ppy.sh/beatmapsets/24825#taiko/87964)
-  2. ETIA. - Enkan no Kotowari (Rein0527) \[KUMA's Taiko Oni (TWC ver.)\]
+  2. [ETIA. - Enkan no Kotowari (Rein0527) \[KUMA's Taiko Oni (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/39889#taiko/140687)
 - DoubleTime
   1. [12 Girls Band - Freedom (LKs) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/13901#taiko/51121)
-  2. [Matsumoto Tamaki - Tenshi Teki Kenpou Yonjou (KayeSara) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/13901#taiko/51121)
+  2. [Matsumoto Tamaki - Tenshi Teki Kenpou Yonjou (KayeSara) \[aabc's Taiko\]](https://osu.ppy.sh/beatmapsets/43100#taiko/137802)
 - Tiebreaker
   1. **[DystopiaGround - AugoEidEs (happy30) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/24611#taiko/97949)**
 
@@ -285,7 +285,7 @@ This competition has come to an end and resulted in the following podium:
   8. [kors k - smooooch (Card N'FoRcE) \[Natteke's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/17912#taiko/63950)
 - Hidden
   1. [naotyu - Her Majesty (Reisen Udongein) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/52360#taiko/166598)
-  2. [Hatsune Miku - Love-colored Ward (Krisom) \[lepidon! Taiko Oni\]](https://osu.ppy.sh/beatmapsets/52360#taiko/166598)
+  2. [Hatsune Miku - Love-colored Ward (Krisom) \[lepidon! Taiko Oni\]](https://osu.ppy.sh/beatmapsets/23906#taiko/82529)
 - HardRock
   1. [Hatsune Miku - Nightmare Party Night (banvi) \[Ono's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/23053#taiko/84587)
   2. [Ryu\* - bloomin' feeling (Nakagawa-Kanon) \[Nyan's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/28332#taiko/112799)
